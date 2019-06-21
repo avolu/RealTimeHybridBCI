@@ -1,0 +1,1 @@
+integration of fNIRS and EEG streams, real time classification
